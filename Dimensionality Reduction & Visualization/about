@@ -1,0 +1,2 @@
+We humans can't visualize beyond 3D. What if there are more dimensions & how to visualize it to get the insights?
+This project is to use PCA & t-SNE techniques to reduce the dimensions to visualize on MNIST data which has 784 dimensions.
